@@ -1,0 +1,22 @@
+{
+  "name": "cs-js-session",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayushpal2006/js-session.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ayushpal2006/js-session/issues"
+  },
+  "homepage": "https://github.com/Ayushpal2006/js-session#readme",
+  "dependencies": {
+    "express-session": "^1.18.0"
+  }
+}
